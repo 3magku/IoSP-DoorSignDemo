@@ -255,9 +255,9 @@ Just as an example...
 
 - Enjoy!
 
-![Prototype Example Front](https://github.com/3magku/IoSP-DoorSignDemo/blob/master/screenshots/Photo%20=%20Example%20=%20Prototype%20-%20Front.JPG?raw=true)
+![Prototype Example Front](https://github.com/3magku/IoSP-DoorSignDemo/blob/master/screenshots/Photo%20=%20Example%20=%20Prototype%20-%20Front.jpg?raw=true)
 
-![Prototype Example Back](https://github.com/3magku/IoSP-DoorSignDemo/blob/master/screenshots/Photo%20=%20Example%20=%20Prototype%20-%20Back.JPG?raw=true)
+![Prototype Example Back](https://github.com/3magku/IoSP-DoorSignDemo/blob/master/screenshots/Photo%20=%20Example%20=%20Prototype%20-%20Back.jpg?raw=true)
 
 
 ## Particle project IoSP-DoorSignDemo

@@ -239,17 +239,21 @@ For example, if your shop's opening times are Monday to Friday 8:00 am till 5:00
 
 Just as an example...
 
-- Take a small wooden canvas frame and cut a square hole just the size of the e-ink display screen.
+- Take a small photo frame - e.g. [IKEA's RIBBA frames](https://www.ikea.com/sg/en/catalog/products/90378446/)  provide enough room for the whole electronic stuff at the back;
 
-- "Decorate" the remaining canvas pane,
+- Take a small postcard or canvas, fitting into the photo frame (e.g. 10x15 cm) and cut out a square hole just the size of the e-ink display screen;
 
-- Place the e-ink display on the backside of the canvas, just matching the display's screen with hole you cut out and glue it in place.
+- "Decorate" the remaining canvas / postcard pane and place your artwork in to the photo frame;
 
-- Connect the Photon and a 18650-type battery holder.
+- Place the e-ink display on the backside of the canvas, just matching the display's screen with hole you cut out and glue it in place;
 
-- Place and clue Photon board and battery holder in the backside of the canvas frame.
+- Connect the Photon and a 18650-type battery holder;
 
-- Insert a 18650-type Li-Ion battery.
+- Place and/or clue Photon board and battery holder into the backside of the canvas frame;
+
+- Insert a 18650-type Li-Ion battery;
+
+- Enjoy!
 
 ![Prototype Example Front](https://github.com/3magku/IoSP-DoorSignDemo/blob/master/screenshots/Photo%20=%20Example%20=%20Prototype%20-%20Front.JPG?raw=true)
 

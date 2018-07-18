@@ -4,9 +4,9 @@
 Too lazy, too forgetful or just too cool to turn over the door sign of
 the little shop you are running? This might help...
 
-![](https://hackster.imgix.net/uploads/attachments/513979/cover_8qxrPPtjYG.jpg?auto=compress%2Cformat&w=900&h=675&fit=min)
+![](https://github.com/3magku/IoSP-DoorSignDemo/blob/master/screenshots/Photo%20=%20Cover%20Image.jpg?raw=true)
 
-This [project](https://www.hackster.io/3magku/automated-door-sign-fbde9a) was an entry to the [IoSP: The Internet of Solved Problems with Particle](https://www.hackster.io/contests/particle) contest on [hackster.io](https://www.hackster.io/) .
+This little demo project was an [entry](https://www.hackster.io/3magku/automated-door-sign-fbde9a) for the [IoSP: The Internet of Solved Problems with Particle](https://www.hackster.io/contests/particle) contest on [hackster.io](https://www.hackster.io/) .
 
 **Things used in this project**
 -------------------------------
